@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700");
+body {
+
+    background-image: linear-gradient(315deg, #9dbaf8 0%, #f8f6fc 74%);
+	 font-family: "Roboto", sans-serif;
+	 font-weight: 300;
+}
+.size{
+   width: 150px;
+   height: 260px;
+}
+.widthcard{
+    width: 20rem;
+}
+.card {
+
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+.b{
+    font-size: 25px;
+}
