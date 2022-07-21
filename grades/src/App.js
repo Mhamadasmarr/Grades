@@ -27,8 +27,9 @@ function App() {
   grades.push(grade)
   localStorage.setItem('grades', JSON.stringify(grade))
  }
- 
+
  console.log('hello');
+ console.log('hello 2');
 
 return (
   <div>
