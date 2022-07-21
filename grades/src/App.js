@@ -27,9 +27,12 @@ function App() {
   grades.push(grade)
   localStorage.setItem('grades', JSON.stringify(grade))
  }
+ 
+ console.log('hello');
 
 return (
   <div>
+    
            <br/>
           <div className="card widthcard justify-content-center rounded">
 
